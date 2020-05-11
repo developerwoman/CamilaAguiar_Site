@@ -1,0 +1,91 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+
+#dropdown-menu-2btn-2 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-2 .nav .link,
+#dropdown-menu-2btn-2 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-2btn-2 .navbar,
+#dropdown-menu-2btn-2 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-2 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-2 .dropdown-menu a:hover,
+#dropdown-menu-2btn-2 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-2 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-2btn-2 .btn {
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+}
+#slider-0 H2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
+  text-align: center;
+  color: #ffffff;
+}
+#slider-0 .btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+}
+#msg-box5-f .mbr-section-title {
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+}
+#msg-box5-f .lead P {
+  text-align: right;
+}
+#msg-box5-a .mbr-section-title {
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 32px;
+}
+#msg-box5-a .lead P {
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+}
+#content5-5 .mbr-section-title {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  font-size: 30px;
+}
+#social-buttons2-6 .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+}
+#contacts3-7 P {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+}
+#contacts3-7 DIV {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+}
+#footer1-8 P {
+  text-align: center;
+  color: #a7b0c3;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 11px;
+}
+#footer1-8 B {
+  color: #313131;
+}
