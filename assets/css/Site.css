@@ -1,8 +1,123 @@
-.whatsapp {
-    position: fixed;
+.whatsapp { 
+    position: relative;
     top: 82%;
     left: 1%;
     padding: 10px;
     z-index: 10000000; 
+
+    /* overflow: hidden;
+    position: fixed;
+    z-index: 999;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    width: 90px;
+    height: initial; */
     
+ }
+
+.vc_column_container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.vc_column_container>.vc_column-inner {
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+}
+
+.portfolio-wrapper.wolverine-col-md-4 .portfolio-item, .portfolio-wrapper.wolverine-col-md-4 .more-link-wrap {
+    width: 25%;
+    float: left;
+}
+
+.portfolio-wrapper .portfolio-item {
+    padding: 0px;
+    position: relative;
+}
+.portfolio-wrapper .portfolio-item .entry-thumbnail {
+    overflow: hidden;
+}
+.entry-thumbnail {
+    overflow: hidden;
+    position: relative;
+}
+.portfolio-wrapper .portfolio-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.portfolio-item .entry-thumbnail.title-category .entry-thumbnail-hover, .portfolio-item .entry-thumbnail.title-category-link .entry-thumbnail-hover, .portfolio-item .entry-thumbnail.title-excerpt-link .entry-thumbnail-hover, .portfolio-item .entry-thumbnail.title-excerpt .entry-thumbnail-hover {
+    background-color: rgba(244, 244, 244, 0.9);
+}
+.portfolio-wrapper .portfolio-item .entry-thumbnail .entry-thumbnail-hover .entry-hover-wrapper {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+.portfolio-item.hover-align-center .entry-hover-wrapper {
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.portfolio-wrapper .portfolio-item .entry-thumbnail .entry-thumbnail-hover .entry-hover-wrapper .entry-hover-inner {
+    display: table-cell;
+    vertical-align: middle;
+}
+.portfolio-item .entry-thumbnail.title-category .icon-logo, .portfolio-item .entry-thumbnail.title-category-link .icon-logo, .portfolio-item .entry-thumbnail.title-excerpt-link .icon-logo, .portfolio-item .entry-thumbnail.title-excerpt .icon-logo {
+    display: inline-block;
+}
+.portfolio-item .entry-thumbnail.title-category .icon-logo i, .portfolio-item .entry-thumbnail.title-category-link .icon-logo i, .portfolio-item .entry-thumbnail.title-excerpt-link .icon-logo i, .portfolio-item .entry-thumbnail.title-excerpt .icon-logo i {
+    font-size: 50px;
+}
+.portfolio-wrapper .portfolio-item .entry-thumbnail .entry-thumbnail-hover .entry-hover-wrapper .entry-hover-inner div.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.portfolio-item .entry-thumbnail.title-category .category, .portfolio-item .entry-thumbnail.title-category-link .category, .portfolio-item .entry-thumbnail.title-excerpt-link .category, .portfolio-item .entry-thumbnail.title-excerpt .category {
+    font-size: 14px;
+    font-style: italic;
+    padding-top: 15px;
+    display: inline-block;
+}
+
+.box-fale-corretor {
+    overflow: hidden;
+    position: fixed;
+    z-index: 999;
+    top: 85%;
+    right: 0;
+    transform: translateY(-50%);
+    width: 90px;
+    height: initial;
+}
+.box-fale-corretor.active {
+    width: 95px;
+    height: initial;
+}
+
+.box-fale-corretor ul li {
+    float: left;
+    width: auto;
+    height: 70px;
+    width: 95px;
+    margin-bottom: 0;
+}
+
+.box-fale-corretor ul li .icon {
+    height: 40px;
+    line-height: 40px;
+}
+
+.projeto-section-nopadding{
+    padding-top: 85px;
+    padding-bottom: 14px;
+    position: relative;
+    background-position: 60% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
