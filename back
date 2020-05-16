@@ -1,0 +1,82 @@
+<div>
+            <div class=" projeto-gallery-layout-default">
+                <div>
+                    <figure class="projeto-gallery-item">
+                        <a href="ProjetoItaim.html" target="_blank" data-slide-to="0">
+                            <img alt="" src="assets/imagesSite/Projeto Itaim/Copa.jpg">
+
+                        </a>
+                    </figure>
+
+                </div>
+
+                <div>
+                    <figure class="projeto-gallery-item">
+                        <a href="ProjetoItaim.html" target="_blank" data-slide-to="0">
+                            <img alt="" src="assets/imagesSite/Projeto Itaim/Corredor 1.jpg">
+
+                        </a>
+                    </figure>
+
+                </div>
+
+                <div>
+                    <figure class="projeto-gallery-item">
+                        <a href="ProjetoItaim.html" target="_blank" data-slide-to="0">
+                            <img alt="" src="assets/imagesSite/Projeto Itaim/Corredor 2.jpg">
+                            <!-- <span class="icon fa fa-search-plus"></span> -->
+                        </a>
+                    </figure>
+                    
+                </div>
+                <div>
+                    <figure class="projeto-gallery-item">
+                        <a href="ProjetoItaim.html" target="_blank" data-slide-to="0">
+                            <img alt="" src="assets/imagesSite/Projeto Itaim/Cozinha.jpg">
+
+                        </a>
+                    </figure>
+
+                </div>
+                <div>
+                    <figure class="projeto-gallery-item">
+                        <a href="ProjetoItaim.html" target="_blank" data-slide-to="0">
+                            <img alt="" src="assets/imagesSite/Projeto Itaim/Hall Passagem.JPG">
+
+                        </a>
+                    </figure>
+
+                </div>
+                <div>
+                    <figure class="projeto-gallery-item">
+                        <a href="ProjetoItaim.html" target="_blank" data-slide-to="0">
+                            <img alt="" src="assets/imagesSite/Projeto Itaim/Lavabo 1.JPG">
+
+                        </a>
+                    </figure>
+
+                </div>
+                <div>
+                    <figure class="projeto-gallery-item">
+                        <a href="ProjetoItaim.html" target="_blank" data-slide-to="0">
+                            <img alt="" src="assets/imagesSite/Projeto Itaim/Living 1.jpg">
+
+                        </a>
+                    </figure>
+
+                </div>
+                <div>
+                    <figure class="projeto-gallery-item">
+                        <a href="ProjetoItaim.html" target="_blank" data-slide-to="0">
+                            <img alt="" src="assets/imagesSite/Projeto Itaim/Living 2.jpg">
+
+                        </a>
+                    </figure>
+
+                </div>
+
+
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
