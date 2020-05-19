@@ -4,6 +4,15 @@
 .container {
   position: relative; }
 
+  .container img{
+    min-width:50px;
+    min-height:106px;
+    width: auto;
+    height: auto;
+    margin-top: 14px;
+    margin-left: 12px;
+  }
+
 .btn {
   margin-bottom: 0.5rem; }
   .btn + .btn {
