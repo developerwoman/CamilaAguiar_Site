@@ -89,14 +89,10 @@
     overflow: hidden;
     position: fixed;
     z-index: 999;
-    top: 85%;
-    right: 0;
+    top: 95%;
+    right: 12px;
     transform: translateY(-50%);
-    width: 90px;
-    height: initial;
-}
-.box-fale-corretor.active {
-    width: 95px;
+    
     height: initial;
 }
 
