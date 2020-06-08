@@ -1,0 +1,60 @@
+/*!
+ * jQuery Cookiebar Plugin CSS
+ * https://github.com/carlwoodhouse/jquery.cookieBar
+ *
+ * Copyright 2012, Mark Searle, Carl Woodhouse.
+ */
+ 
+ @media (min-width:1440px){
+
+
+
+ .hover-grid .hover-grid-item {
+	width: 25%;
+	height: 230px;
+	cursor:default;}
+	
+
+.hover-grid img {
+	/*-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;*/
+	border:0;
+	position:absolute;
+	margin: 0;
+	padding: 0;
+}
+
+.hover-grid-item .caption {
+	background-color:#fff;
+	width:100%;
+	height:240px;
+	padding: 18px;
+	position:absolute;
+	left:0;
+	color: rgb(14, 13, 13);
+	display:none;
+	line-height:1.1;
+	opacity: 0.9;
+	
+	/*-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;*/
+}
+
+.hover-grid-item .caption h2 {
+    opacity: 1.0;
+    font-size: 11px;
+    font-weight: 800;
+    font-style: normal;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    padding: 102px 48px;
+    color: #0a0a0a;
+    letter-spacing: 1.025em;
+    display: block;
+    white-space: nowrap;
+    text-align: center;
+}
+
+}
