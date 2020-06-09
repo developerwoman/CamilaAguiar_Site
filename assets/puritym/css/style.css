@@ -14,12 +14,19 @@
   }
 
   .container .projeto-item{
-    min-width:700px;
-    min-height:600px;
+    width: 500px; 
+    height: 642px;
+    margin-top: -9px;
+    margin-left: -96px;
+  }
+
+  .row .container .projeto-item{
+    min-width:426px;
+    min-height:642px;
     width: auto;
     height: auto;
-    margin-top: 14px;
-    margin-left: 12px;
+    margin-top: -45px;
+    margin-bottom: 66px;
   }
 
 .btn {
